@@ -9,6 +9,6 @@ Use the following format when submitting issues, or your issue may be ignored.
 
 ## Actual Behavior
 
-## Steps to Reproduce the Problem
+## Steps to Reproduce the Issue
 
 ## Comments
